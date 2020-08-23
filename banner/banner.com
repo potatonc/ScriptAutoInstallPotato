@@ -1,2 +1,5 @@
-<font color="red"><b>क═══════क⊹⊱✫⊰⊹क═══════क</b></font><br><font color="blue"><b>Terima kasih telah menggunakan server dari babangboy  </b></font><br><font color="red"><b>क═══════क⊹⊱✫⊰⊹क═══════क</b></font><br><font color="green"><b>DILARANG DDOS</b></font><br><font color="magenta"><b>DILARANG MENGGUNAKA SERVER INI DENGAN HAL YANG ILLEGAL/KRIMINAL</b></font><br><font color="red"><b>MAX LOGIN 1 DEVICES</b></font><font color="blue"><b> OK BOS</b></font><br><font color="magenta"><b>SUPPORTED BY GRETONGERS INDONESIA</b></font><br><font color="cyan"><b>क═══════क⊹⊱✫⊰⊹क═══════क</b></font><br>WA: 081374452477
-TELE: @Gretongerindonesia</b></font><br><font color="cyan"><b>क═══════क⊹⊱✫⊰⊹क═══════क</b></font>
+<br><font color="green"><b>=== Script by Potato ===</b></font><br><br>
+<font color="blue"><b>My Bot : t.me/iniapayaBot</b></font><br>
+<font color="red"><b>Organisasi : ANC</b></font><br><br>
+<font color="magenta"><b>Support me guys :)</b></font><br>
+<font color="black"><b>Donate : 082111196213</b></font><br>

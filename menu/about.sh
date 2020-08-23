@@ -1,0 +1,23 @@
+#!/bin/bash
+#About this script
+clear
+echo -e "\e[34;5m    ==={}==={}  Script Credit by Potato  {}==={}==="
+echo -e ""
+echo -e ""
+echo -e "\e[37;5m☛,  Script ini saya buat hasil dari 40% sample-"
+echo -e "☛,  KleKlai dan 10% sample Angristan."
+echo -e "☛,  Memperbaiki fungsi-fungsi yang tidak bekerja."
+echo -e "☛,  Menambahkan fitur untuk kenyamanan memakai script."
+echo -e ""
+echo -e "☛,  Jika terdapat bug pada script ini,-"
+echo -e "☛,  mohon dilaporkan ke kontak dibawah ini."
+echo -e ""
+echo -e ""
+          echo -e "        ---------------------------------------"
+          echo -e "             Terimakasih sudah menggunakan-"
+          echo -e "                Script Credit by Potato"
+          echo -e "        ---------------------------------------"
+echo -e "\e[34;5m"
+echo -e "    ==={}==={} My Bot  : t.me/iniapayaBot {}==={}==="
+echo -e "    ==={}==={} My Tele : t.me/aldi_nc     {}==={}==="
+echo -e "\e[37;5m"

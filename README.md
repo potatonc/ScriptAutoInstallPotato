@@ -30,4 +30,6 @@
 * Cek User OpenVPN
 * Live Bandwidth
 
+### Not Support for AWS
+
 Potato©

@@ -7,6 +7,19 @@
 * Debian 10
 * Ubuntu 18.04
 
+**Debian 9**
+```
+cd && wget -O myvpn-deb9.sh "https://drive.google.com/uc?export=download&id=1700hRMyLQxtAQ8xzQ6FsfAzDnpnaM38e" && chmod +x myvpn-deb9.sh && ./myvpn-deb9.sh
+```
+**Debian 10**
+```
+cd && wget -O myvpn-deb10.sh "https://drive.google.com/uc?export=download&id=172IZEgpubXQo33yAgBNKVY1cyKjEgqIz" && chmod +x myvpn-deb10.sh && ./myvpn-deb10.sh
+```
+**Ubuntu 18.04**
+```
+cd && wget -O myvpn-18.04.sh "https://drive.google.com/uc?export=download&id=173sttGru8wNTZTOmGgbVJEwMSo6rFOYf" && chmod +x myvpn-18.04.sh && ./myvpn-18.04.sh
+```
+
 ### What's server included
 * OpenSSH port 22, 444
 * OpenVPN port 1194 tcp

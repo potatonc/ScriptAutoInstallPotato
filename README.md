@@ -23,6 +23,7 @@ cd && wget -O myvpn-18.04.sh "https://drive.google.com/uc?export=download&id=173
 ### What's server included
 * OpenSSH port 22, 444
 * OpenVPN port 1194 tcp
+* OpenVPN port 25000 udp
 * OpenVPN port 2905, 9443 ssl
 * Dropbear port 80, 143, 236
 * Dropbear port 443, 943 ssl

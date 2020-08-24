@@ -54,6 +54,15 @@ potato install ubuntu18
 ```
 potato install shadowsocks
 ```
+**After installing Shadowsocks**
+You can run the command:
+☛ ssnew = to create user shadowsocks
+☛ ssdel = to remove user shadowsocks
+☛ cekdatass = shadowsocks user database
+
+Note:
+Each account has a different port and there cannot be the same port as an open port.
+
 
 ### Not Support for AWS
 

@@ -7,17 +7,22 @@
 * Debian 10
 * Ubuntu 18.04
 
+### Installations
+**potato**
+```
+cd && wget -O install.sh "https://drive.google.com/uc?export=download&id=17YO8MG7fPyzT_UGjRQZoPhAobe2aQlE6" && chmod +x install.sh && ./install.sh
+```
 **Debian 9**
 ```
-cd && wget -O myvpn-deb9.sh "https://drive.google.com/uc?export=download&id=1700hRMyLQxtAQ8xzQ6FsfAzDnpnaM38e" && chmod +x myvpn-deb9.sh && ./myvpn-deb9.sh
+potato install debian9
 ```
 **Debian 10**
 ```
-cd && wget -O myvpn-deb10.sh "https://drive.google.com/uc?export=download&id=172IZEgpubXQo33yAgBNKVY1cyKjEgqIz" && chmod +x myvpn-deb10.sh && ./myvpn-deb10.sh
+potato install debian10
 ```
 **Ubuntu 18.04**
 ```
-cd && wget -O myvpn-18.04.sh "https://drive.google.com/uc?export=download&id=173sttGru8wNTZTOmGgbVJEwMSo6rFOYf" && chmod +x myvpn-18.04.sh && ./myvpn-18.04.sh
+potato install ubuntu18
 ```
 
 ### What's server included
@@ -43,6 +48,12 @@ cd && wget -O myvpn-18.04.sh "https://drive.google.com/uc?export=download&id=173
 * Perpanjang exp users
 * Cek User OpenVPN
 * Live Bandwidth
+
+### Shadowsocks + simple-obfs
+**Shadowsocks install**
+```
+potato install shadowsocks
+```
 
 ### Not Support for AWS
 

@@ -64,7 +64,12 @@ potato install shadowsocks
 * Note:
 > Each account has a different port and there cannot be the same port as an open port.
 
-
+### Fix
+* sent invalidate(passwd) request, exiting
+* sent invalidate(group) request, exiting
+```
+apt-get remove --purge unscd
+```
 
 ### Not Support for AWS
 

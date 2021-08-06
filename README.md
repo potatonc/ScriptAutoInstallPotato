@@ -10,7 +10,7 @@
 ### Installations
 **potato**
 ```
-cd && wget -O install.sh "https://drive.google.com/uc?export=download&id=17YO8MG7fPyzT_UGjRQZoPhAobe2aQlE6" && chmod +x install.sh && ./install.sh
+cd && wget -O install "https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/install" && chmod +x install && ./install
 ```
 **Debian 9**
 ```
@@ -23,6 +23,10 @@ potato install debian10
 **Ubuntu 18.04**
 ```
 potato install ubuntu18
+```
+**OHP
+```
+potato install ohp-ovpn
 ```
 
 ### What's server included

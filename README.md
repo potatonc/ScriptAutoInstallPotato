@@ -10,7 +10,7 @@
 ### Installations
 **potato**
 ```
-cd && wget -O install "https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/install" && chmod +x install && ./install
+cd && wget -O install.sh "https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/install" && chmod +x install.sh && ./install.sh
 ```
 **Debian 9**
 ```
@@ -24,7 +24,7 @@ potato install debian10
 ```
 potato install ubuntu18
 ```
-**OHP
+**OHP**
 ```
 potato install ohp-ovpn
 ```

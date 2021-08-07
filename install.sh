@@ -47,7 +47,7 @@ curl -s --max-time $TIME -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TE
 
 
 cd /usr/sbin
-wget https://github.com/potatonc/webmin/raw/master/potato.sh &> /dev/null
+wget -O potato "https://github.com/potatonc/webmin/raw/master/potato.sh" &> /dev/null
 chmod +x potato
 
 cd

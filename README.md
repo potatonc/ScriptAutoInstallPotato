@@ -34,6 +34,7 @@ potato install ohp-ovpn
 * OpenVPN port 1194 tcp
 * OpenVPN port 25000 udp
 * OpenVPN port 2905, 9443 ssl
+* OHP + OpenVPN port 9088
 * Dropbear port 80, 143, 236
 * Dropbear port 443, 943 ssl
 * Squid port 8080, 8989, 8000

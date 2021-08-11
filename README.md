@@ -28,6 +28,9 @@ potato install ubuntu18
 ```
 potato install ohp-ovpn
 ```
+```
+potato uninstall del-ohp
+```
 
 ### What's server included
 * OpenSSH port 22, 444

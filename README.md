@@ -10,7 +10,7 @@
 ### Installations
 **potato**
 ```
-cd && wget -O install.sh "https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/install" && chmod +x install.sh && ./install.sh
+cd && wget https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/install && chmod +x install && ./install
 ```
 **Debian 9**
 ```

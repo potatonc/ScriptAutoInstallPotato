@@ -13,17 +13,9 @@
 ```
 cd && wget https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/install && chmod +x install && ./install
 ```
-**Debian 9**
+**Tunneling**
 ```
-potato install debian9
-```
-**Debian 10**
-```
-potato install debian10
-```
-**Ubuntu 18.04**
-```
-potato install ubuntu18
+potato install tunneling
 ```
 **OHP**
 ```
@@ -32,6 +24,7 @@ potato install ohp
 ```
 potato uninstall ohp
 ```
+**BOT**
 ```
 potato install bot
 ```
@@ -40,28 +33,38 @@ potato start bot
 ```
 
 ### What's server included
-* OpenSSH port 22, 444
-* OpenVPN port 1194 tcp
-* OpenVPN port 25000 udp
-* OpenVPN port 2905, 9443 ssl
-* OHP + OpenVPN port 9088
-* Dropbear port 90, 143, 236
-* Dropbear port 445, 943 ssl
-* Squid port 8080, 8989, 8000
-* Badvpn-udpgw port 7100 - 7600
+* OpenSSH          : 22, 444
+* OpenVPN          : 1194 tcp
+* OpenVPN          : 25000 udp
+* OpenVPN          : 2905, 9443 ssl
+* OHP + OVPN       : 9088
+* Dropbear         : 90, 143, 236
+* Dropbear         : 445, 943 ssl
+* Squid            : 8080, 8989, 8000
+* Badvpn-udpgw     : 7100 - 7600
+* Vmess            : 443 ssl
+* Vmess            : 80
+* Vless            : 8443 ssl
+* Vless            : 8088
+* Trojan           : 2087
+* Wireguard        : 7085
+* SSTP             : 446
+* L2TP/PPTP        : 1701
+* Shadowsocks      : 2443 - 3543
+* Shadowsocks-R    : 1443 - 1543
 
 ### What's features included
 * Webmin http(s)://[ip]:10000/
 * Nginx http(s)://[ip]:81/
 * Timezone : Asia/Jakarta
+* Auto Reboot 00.00 WIB GMT +7
 
 ### What's script included
 * Cek Port
 * Cek Memory RAM
 * User Limit
 * Speedtest
-* Perpanjang exp users
-* Cek User OpenVPN
+* Cek User OpenVPN (GUI)
 * Live Bandwidth
 
 ### Shadowsocks + simple-obfs

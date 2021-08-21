@@ -27,10 +27,16 @@ potato install ubuntu18
 ```
 **OHP**
 ```
-potato install ohp-ovpn
+potato install ohp
 ```
 ```
-potato uninstall del-ohp
+potato uninstall ohp
+```
+```
+potato install bot
+```
+```
+potato start bot
 ```
 
 ### What's server included
@@ -39,8 +45,8 @@ potato uninstall del-ohp
 * OpenVPN port 25000 udp
 * OpenVPN port 2905, 9443 ssl
 * OHP + OpenVPN port 9088
-* Dropbear port 80, 143, 236
-* Dropbear port 443, 943 ssl
+* Dropbear port 90, 143, 236
+* Dropbear port 445, 943 ssl
 * Squid port 8080, 8989, 8000
 * Badvpn-udpgw port 7100 - 7600
 

@@ -66,6 +66,7 @@ potato start bot
 * Speedtest
 * Cek User OpenVPN (GUI)
 * Live Bandwidth
+* DLL
 
 ### Shadowsocks + simple-obfs
 **Shadowsocks install**

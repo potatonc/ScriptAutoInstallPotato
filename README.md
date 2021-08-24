@@ -68,8 +68,10 @@ potato start bot
 * Live Bandwidth
 * Running VPS From BOT
 * Notification Create Users From BOT
-* Notification Check Users From BOT (1 Hours)
+* Notification Check Users From BOT
 * Set BOT Time (Default 1 Hours)
+* Backup Configuration and Users VPS
+* Restore Configuration and Users VPS
 * DLL
 
 ### Shadowsocks + simple-obfs

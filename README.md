@@ -1,3 +1,4 @@
+![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/1.jpg?raw=true "Restore From Termux App")
 # Script Auto Install
 
 ## Description

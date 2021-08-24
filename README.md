@@ -66,6 +66,10 @@ potato start bot
 * Speedtest
 * Cek User OpenVPN (GUI)
 * Live Bandwidth
+* Running VPS From BOT
+* Notification Create Users From BOT
+* Notification Check Users From BOT (1 Hours)
+* Set BOT Time (Default 1 Hours)
 * DLL
 
 ### Shadowsocks + simple-obfs

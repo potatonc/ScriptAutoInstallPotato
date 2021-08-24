@@ -1,4 +1,3 @@
-![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/1.jpg?raw=true "Restore From Termux App")
 # Script Auto Install
 
 ## Description
@@ -31,6 +30,10 @@ potato install bot
 ```
 ```
 potato start bot
+```
+**Update**
+```
+potato update
 ```
 
 ### What's server included
@@ -74,6 +77,26 @@ potato start bot
 * Backup Configuration and Users VPS
 * Restore Configuration and Users VPS
 * DLL
+
+**Restore From Termux App**
+![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/1.jpg?raw=true "Restore From Termux App")
+![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/2.jpg?raw=true "Restore From Termux App")
+![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/3.jpg?raw=true "Restore From Termux App")
+![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/4.jpg?raw=true "Restore From Termux App")
+![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/5.jpg?raw=true "Restore From Termux App")
+![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/6.jpg?raw=true "Restore From Termux App")
+![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/7.jpg?raw=true "Restore From Termux App")
+
+**Restore From Direct Link**
+![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/a.jpg?raw=true "Restore From Termux App")
+![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/b.jpg?raw=true "Restore From Termux App")
+![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/c.jpg?raw=true "Restore From Termux App")
+![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/d.jpg?raw=true "Restore From Termux App")
+![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/e.jpg?raw=true "Restore From Termux App")
+![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/f.jpg?raw=true "Restore From Termux App")
+
+**Get CHATID**
+![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/chatid.jpg?raw=true "Restore From Termux App")
 
 ### Shadowsocks + simple-obfs
 **Shadowsocks install**

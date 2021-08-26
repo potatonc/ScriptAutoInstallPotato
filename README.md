@@ -102,6 +102,15 @@ potato update
 ![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/e.jpg?raw=true "Restore From Termux App")
 ![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/f.jpg?raw=true "Restore From Termux App")
 
+### Manages Domain Cloudflare
+![Alt text](https://github.com/potatonc/sudo/raw/master/1.jpg?raw=true "Manages Domain Cloudflare")
+![Alt text](https://github.com/potatonc/sudo/raw/master/2.jpg?raw=true "Manages Domain Cloudflare")
+![Alt text](https://github.com/potatonc/sudo/raw/master/3.jpg?raw=true "Manages Domain Cloudflare")
+![Alt text](https://github.com/potatonc/sudo/raw/master/4.jpg?raw=true "Manages Domain Cloudflare")
+![Alt text](https://github.com/potatonc/sudo/raw/master/5.jpg?raw=true "Manages Domain Cloudflare")
+![Alt text](https://github.com/potatonc/sudo/raw/master/6.jpg?raw=true "Manages Domain Cloudflare")
+![Alt text](https://github.com/potatonc/sudo/raw/master/7.jpg?raw=true "Manages Domain Cloudflare")
+
 **Get CHATID**
 ![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/chatid.jpg?raw=true "Restore From Termux App")
 

@@ -68,7 +68,7 @@ potato update
 * Cek Memory RAM
 * User Limit
 * Speedtest
-* Cek User OpenVPN (GUI)
+* Cek User OpenVPN (User-friendly)
 * Live Bandwidth
 * Running VPS From BOT
 * Notification Create Users From BOT
@@ -76,6 +76,12 @@ potato update
 * Set BOT Time (Default 1 Hours)
 * Backup Configuration and Users VPS
 * Restore Configuration and Users VPS
+* Change Subdomain VPS
+* Manage Domain Cloudflare
+* Add Subdomain Cloudflare
+* Change Subdomain Cloudflare
+* List DNS Cloudflare
+* Block Torrent
 * DLL
 
 **Restore From Termux App**

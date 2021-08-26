@@ -84,6 +84,7 @@ potato update
 * Block Torrent
 * DLL
 
+### Restore Configuration
 **Restore From Termux App**
 ![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/1.jpg?raw=true "Restore From Termux App")
 ![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/2.jpg?raw=true "Restore From Termux App")

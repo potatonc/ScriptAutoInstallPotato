@@ -65,6 +65,7 @@ potato update
 
 ### What's script included
 * Cek Port
+* Change Port
 * Cek Memory RAM
 * User Limit
 * Speedtest
@@ -136,7 +137,6 @@ potato install shadowsocks
 apt-get remove --purge unscd
 ```
 
-### Not Support for AWS
 
 
 Potato©

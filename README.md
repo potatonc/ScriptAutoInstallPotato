@@ -35,6 +35,10 @@ potato start bot
 ```
 potato update
 ```
+**TCP BBR by teddysun**
+```
+cd && wget https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/tcpbbr && chmod +x tcpbbr && ./tcpbbr
+```
 
 ### What's server included
 * OpenSSH          : 22, 444

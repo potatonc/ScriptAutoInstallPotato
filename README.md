@@ -82,6 +82,8 @@ potato update
 * Add Subdomain Cloudflare
 * Change Subdomain Cloudflare
 * List DNS Cloudflare
+* Patch 443 (Vmess/Vless)
+* Change Time Zone
 * Block Torrent
 * DLL
 

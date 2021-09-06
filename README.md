@@ -85,6 +85,7 @@ cd && wget https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/tcpbbr
 * Manage Domain Cloudflare
 * Add Subdomain Cloudflare
 * Change Subdomain Cloudflare
+* Delete Subdomain Cloudflare
 * List DNS Cloudflare
 * Patch 443 (Vmess/Vless)
 * Change Time Zone

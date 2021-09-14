@@ -71,7 +71,8 @@ cd && wget https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/tcpbbr
 * Cek Port
 * Change Port
 * Cek Memory RAM
-* User Limit
+* User Limit SSH/Dropbear/OpenVPN
+* User Limit V2Ray
 * Speedtest
 * Cek User OpenVPN (User-friendly)
 * Live Bandwidth

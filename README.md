@@ -1,5 +1,5 @@
 # Script Auto Install
-
+Channel Telegram : https://t.me/potatotunneling
 ## Description
 
 ### OS Support

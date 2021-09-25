@@ -11,7 +11,7 @@ Channel Telegram : https://t.me/potatotunneling
 ### Installations
 **potato**
 ```
-cd && wget https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/install && chmod +x install && ./install
+cd && apt update -y && wget https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/install && chmod +x install && ./install
 ```
 **Tunneling**
 ```

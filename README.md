@@ -4,7 +4,7 @@ Channel Telegram : https://t.me/potatotunneling
 
 ### OS Support
 * Debian 9 (Not Tested Latest Service)
-* Debian 10
+* Debian 10 (Not Tested Latest Service)
 * Ubuntu 18.04
 * Ubuntu 20.04
 

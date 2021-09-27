@@ -7,6 +7,11 @@ Channel Telegram : https://t.me/potatotunneling
 * Debian 10
 * Ubuntu 18.04 (Recommended)
 * Ubuntu 20.04
+**For Debian 10**
+* Check Repo first
+```
+apt update -y
+```
 
 ### Installations
 **potato**

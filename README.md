@@ -11,7 +11,7 @@ Channel Telegram : https://t.me/potatotunneling
 **For Debian 10**
 * Check Repo first
 ```
-apt update -y
+apt update --yes
 ```
 
 ### Installations

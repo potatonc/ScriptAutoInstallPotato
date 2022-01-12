@@ -6,7 +6,7 @@ Channel Telegram : https://t.me/potatotunneling
 * Debian 9 (Not Tested Latest Service)
 * Debian 10
 * Ubuntu 18.04 (Recommended)
-* Ubuntu 20.04
+* Ubuntu 20.04 (Not Tested Latest Service)
 
 **For Debian 10**
 * Check Repo first

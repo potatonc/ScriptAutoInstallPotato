@@ -48,17 +48,17 @@ cd && wget https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/tcpbbr
 
 ### What's server included
 * OpenSSH          : 22, 444
-* OpenSSH          : 80 ws
+* OpenSSH          : 80 websocket
 * OpenSSH          : 843 ssl
-* OpenSSH          : 443 ws ssl
+* OpenSSH          : 443 websocket ssl
 * OpenVPN          : 1194 tcp
 * OpenVPN          : 25000 udp
 * OpenVPN          : 9443 ssl
 * OHP + OVPN       : 9088
 * Dropbear         : 90, 143, 236
-* Dropbear         : 80 ws
+* Dropbear         : 80 websocket
 * Dropbear         : 943 ssl
-* Dropbear         : 443 ws ssl
+* Dropbear         : 443 websocket ssl
 * Squid            : 8080, 8989, 8000
 * Badvpn-udpgw     : 7100 - 7600
 * Vmess            : 443 ssl

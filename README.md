@@ -19,6 +19,22 @@ Channel Telegram : https://t.me/potatotunneling
 ```
 apt update --yes
 ```
+* Remove locales
+```
+apt-get purge locales -y
+```
+* Install aptitude
+```
+apt install aptitude -y
+```
+* Install locales
+```
+aptitude install locales
+```
+* Reconfigure dpkg
+```
+dpkg-reconfigure locales
+```
 
 ### Installations
 **potato**

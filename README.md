@@ -1,5 +1,6 @@
 # Script Auto Install
 Channel Telegram : https://t.me/potatotunneling
+if you are using a low-end vps, use the Mono theme.
 
 ## Contact Us
 * Telegram  : aldi_nc

@@ -21,7 +21,7 @@ Channel Telegram : https://t.me/potatotunneling
 ```
 apt update --yes
 ```
-**After Installation Script**
+**After Installation Script Successfully**
 * Remove locales
 ```
 apt-get purge locales -y

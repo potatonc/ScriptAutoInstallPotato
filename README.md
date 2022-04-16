@@ -21,23 +21,6 @@ Channel Telegram : https://t.me/potatotunneling
 ```
 apt update --yes
 ```
-**After Installation Script Successfully**
-* Remove locales
-```
-apt-get purge locales -y
-```
-* Install aptitude
-```
-apt install aptitude -y
-```
-* Install locales
-```
-aptitude install locales
-```
-* Reconfigure dpkg
-```
-dpkg-reconfigure locales
-```
 
 ### Installations
 **potato**

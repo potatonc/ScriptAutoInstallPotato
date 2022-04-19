@@ -9,7 +9,7 @@ Channel Telegram : https://t.me/potatotunneling
 * Whatsapp  : +6282111196213
 
 ## Buy
-[Go to](Buy.md)
+[Go to page](Buy.md)
 
 ## Description
 

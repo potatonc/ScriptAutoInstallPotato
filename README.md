@@ -89,7 +89,7 @@ cd && wget https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/tcpbbr
 * Nginx http(s)://[ip]:81/
 * Timezone : Asia/Jakarta
 * Auto Reboot 00.00 WIB GMT +7
-* Auto Update
+* Auto Update Feature
 
 ### What's script included
 * Cek Port

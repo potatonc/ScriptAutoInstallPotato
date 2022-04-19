@@ -13,7 +13,7 @@
 * 10 IP Address
   + USD 49$
 
-# List Wallet
+# Lists Wallet
 ## BTC
 ```
 31ya2Tn7tte8etbazKQHm2irfxJQAJnAiS

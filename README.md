@@ -8,9 +8,6 @@ Channel Telegram : https://t.me/potatotunneling
 * Instagram : aldi_nc
 * Whatsapp  : +6282111196213
 
-## Buy
-[Go to page](Buy.md)
-
 ## Description
 
 ### OS Support

@@ -16,7 +16,6 @@ Channel Telegram : https://t.me/potatotunneling
 * Ubuntu 20.04 (Recommended)
 
 ### Installations
-**potato**
 ```
 wget --no-check-certificate https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/master/install && chmod +x install && ./install
 ```
@@ -41,31 +40,31 @@ cd && wget https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/ma
 ```
 
 ### What's server included
-* OpenSSH          : 22, 444
-* OpenSSH          : 80 websocket
-* OpenSSH          : 843 ssl
-* OpenSSH          : 443 websocket ssl
-* OpenVPN          : 1194 tcp
-* OpenVPN          : 25000 udp
-* OpenVPN          : 9443 ssl
-* OHP + OVPN       : 9088
-* Dropbear         : 90, 143, 236
-* Dropbear         : 80 websocket
-* Dropbear         : 943 ssl
-* Dropbear         : 443 websocket ssl
-* Squid            : 8080, 8989, 8000
-* Badvpn-udpgw     : 7100 - 7600
-* Vmess            : 443 ssl
-* Vmess            : 8808
-* Vless            : 443 ssl
-* Vless            : 8088
-* Trojan-Go        : 443 ssl
-* Trojan           : 80
-* Wireguard        : 7085
-* SSTP             : 446
-* L2TP/PPTP        : 1701
-* Shadowsocks      : 2443 - 3543
-* Shadowsocks-R    : 1443 - 1543
+* SSH Direct         : 22, 444, 80
+* SSH SSL            : 443
+* SSH Websocket      : 80 no-SSL
+* SSH Websocket      : 443 SSL
+* OpenVPN            : 1194 tcp
+* OpenVPN            : 25000 udp
+* OpenVPN            : 443 SSL
+* OHP + OVPN         : 9088
+* Dropbear Direct    : 90, 143, 80
+* Dropbear SSL       : 443
+* Dropbear Websocket : 80 no-SSL
+* Dropbear Websocket : 443 SSL
+* Squid              : 8080, 8989, 8000
+* Badvpn-udpgw       : 7100 - 7600
+* VMESS              : 443 SSL
+* VMESS              : 80 no-SSL
+* VLESS              : 443 SSL
+* VLESS              : 80 no-SSL
+* Trojan-Go          : 443 SSL
+* Trojan-gfw         : 4443
+* Wireguard          : 7085
+* SSTP               : 446
+* L2TP/PPTP          : 1701
+* Shadowsocks        : 2443 - 3543
+* Shadowsocks-R      : 1443 - 1543
 
 ### What's features included
 * Webmin http(s)://[ip]:10000/
@@ -75,9 +74,8 @@ cd && wget https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/ma
 * Auto Update Feature
 
 ### What's script included
-* Cek Port
-* Change Port
-* Cek Memory RAM
+* Check Port
+* Check Memory RAM
 * User Limit SSH/Dropbear/OpenVPN
 * User Limit V2Ray
 * Speedtest
@@ -95,7 +93,6 @@ cd && wget https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/ma
 * Change Subdomain Cloudflare
 * Delete Subdomain Cloudflare
 * List DNS Cloudflare
-* Patch 443 (Vmess/Vless)
 * Change Time Zone
 * Block Torrent
 * DLL
@@ -130,21 +127,6 @@ cd && wget https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/ma
 **Get CHATID**
 ![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/chatid.jpg?raw=true "Restore From Termux App")
 
-### Shadowsocks + simple-obfs
-**Shadowsocks install**
-```
-potato install shadowsocks
-```
-**After installing Shadowsocks**
-* You can run the command:
-```
-☛ ssnew = to create user shadowsocks
-☛ ssdel = to remove user shadowsocks
-☛ cekdatass = shadowsocks user database
-```
-* Note:
-> Each account has a different port and there cannot be the same port as an open port.
-
 ### Fix
 * sent invalidate(passwd) request, exiting
 * sent invalidate(group) request, exiting
@@ -154,4 +136,4 @@ apt-get remove --purge unscd
 
 
 
-Potato©
+Potato© 2019-2022

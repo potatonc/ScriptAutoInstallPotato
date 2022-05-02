@@ -18,7 +18,7 @@ Channel Telegram : https://t.me/potatotunneling
 ### Installations
 **potato**
 ```
-wget --no-check-certificate https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/install && chmod +x install && ./install
+wget --no-check-certificate https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/master/install && chmod +x install && ./install
 ```
 **Install package potato**
 ```
@@ -37,7 +37,7 @@ potato start bot
 ```
 **TCP BBR by teddysun**
 ```
-cd && wget https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/tcpbbr && chmod +x tcpbbr && ./tcpbbr
+cd && wget https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/master/tcpbbr && chmod +x tcpbbr && ./tcpbbr
 ```
 
 ### What's server included

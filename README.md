@@ -40,31 +40,31 @@ cd && wget https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/ma
 ```
 
 ### What's server included
-* SSH Direct         : 22, 444, 80
-* SSH SSL            : 443
-* SSH Websocket      : 80 no-SSL
-* SSH Websocket      : 443 SSL
-* OpenVPN            : 1194 tcp
-* OpenVPN            : 25000 udp
-* OpenVPN            : 443 SSL
-* OHP + OVPN         : 9088
-* Dropbear Direct    : 90, 143, 80
-* Dropbear SSL       : 443
-* Dropbear Websocket : 80 no-SSL
-* Dropbear Websocket : 443 SSL
-* Squid              : 8080, 8989, 8000
-* Badvpn-udpgw       : 7100 - 7600
-* VMESS              : 443 SSL
-* VMESS              : 80 no-SSL
-* VLESS              : 443 SSL
-* VLESS              : 80 no-SSL
-* Trojan-Go          : 443 SSL
-* Trojan-gfw         : 4443
-* Wireguard          : 7085
-* SSTP               : 446
-* L2TP/PPTP          : 1701
-* Shadowsocks        : 2443 - 3543
-* Shadowsocks-R      : 1443 - 1543
+|   NAME    |   PORT   | SSL | WS |
+| :--- | :--- | :---: | :---: |
+| SSH | 22, 444 | | |
+| SSH | 80 |  | ✅ |
+| SSH | 443 | ✅ | ✅ |
+| Dropbear | 90, 143 | | |
+| Dropbear | 80 | | ✅ |
+| Dropbear | 443 | ✅ | ✅ |
+| OpenVPN | 1194 | | |
+| OpenVPN | 25000 | | |
+| OpenVPN | 443 | ✅ | |
+| OHP | 9088 | | |
+| Squid | 8080 | | |
+| UDPGW | 7100-7600 | | |
+| VMESS | 80 | | ✅ |
+| VMESS | 443 | ✅ | ✅ |
+| VLESS | 80 | | ✅ |
+| VLESS | 443 | ✅ | ✅ |
+| Trojan-go | 443 | ✅ | ✅ |
+| Trojan-gfw | 4443 | ✅ | |
+| Wireguard | 7085 | | |
+| SSTP | 446 | | |
+| L2TP/PPTP | 1701 | | |
+| Ssocks | 2443-3543 | ✅ | |
+| SsocksR | 1443-1543 | ✅ | |
 
 ### What's features included
 * Webmin http(s)://[ip]:10000/

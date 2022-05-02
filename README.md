@@ -15,27 +15,18 @@ Channel Telegram : https://t.me/potatotunneling
 * Ubuntu 18.04 (Recommended)
 * Ubuntu 20.04 (Recommended)
 
-**For Debian 10**
-* Check Repo first
-```
-apt update --yes
-```
-
 ### Installations
 **potato**
 ```
-cd && apt update -y && wget https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/install && chmod +x install && ./install
+wget --no-check-certificate https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/install && chmod +x install && ./install
+```
+**Install package potato**
+```
+apt-get install potato -y
 ```
 **Tunneling**
 ```
 potato install tunneling
-```
-**OHP**
-```
-potato install ohp
-```
-```
-potato uninstall ohp
 ```
 **BOT**
 ```
@@ -43,10 +34,6 @@ potato install bot
 ```
 ```
 potato start bot
-```
-**Update**
-```
-potato update
 ```
 **TCP BBR by teddysun**
 ```

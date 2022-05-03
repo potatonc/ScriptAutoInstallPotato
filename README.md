@@ -61,7 +61,7 @@ cd && wget https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/ma
 | Trojan-go | 443 | ✅ | ✅ | |
 | Trojan-gfw | 4443 | ✅ | | |
 | Wireguard | 7085 | | | ✅ |
-| SSTP | 446 | | |
+| SSTP | 446 | | | ✅ |
 | L2TP/PPTP | 1701 | | | ✅ |
 | Ssocks | 2443-3543 | ✅ | |
 | SsocksR | 1443-1543 | ✅ | |

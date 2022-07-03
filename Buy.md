@@ -29,11 +29,6 @@
 0x373b4d8c6bca2ea248718995c13881e62dabae3b
 ```
 
-## Paypal
-```
-@aldipotato
-```
-
 ## DANA
 ```
 +6282111196213

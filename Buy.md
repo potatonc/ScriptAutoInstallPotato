@@ -28,6 +28,10 @@
 ```
 0x373b4d8c6bca2ea248718995c13881e62dabae3b
 ```
+## Paypal
+```
+With friends or family
+```
 
 ## DANA
 ```

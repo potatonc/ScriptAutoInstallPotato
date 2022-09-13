@@ -58,7 +58,7 @@ cd && wget https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/ma
 | VMESS | 443 | ✅ | ✅ | |
 | VLESS | 80 | | ✅ | ✅ |
 | VLESS | 443 | ✅ | ✅ | |
-| Trojan-go | 443 | ✅ | ✅ | |
+| Trojan-go Maintenance | ✅ | ✅ | |
 | Trojan-gfw | 4443 | ✅ | | |
 | Wireguard | 7085 | | | ✅ |
 | SSTP | 446 | | | ✅ |

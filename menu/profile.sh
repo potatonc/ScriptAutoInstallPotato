@@ -7,6 +7,12 @@ if [ "$BASH" ]; then
 fi
 
 mesg n || true
+screen -AmdS badvpn badvpn-udpgw --listen-addr 127.0.0.1:7100 --max-clients 500
+screen -AmdS badvpn badvpn-udpgw --listen-addr 127.0.0.1:7200 --max-clients 500
+screen -AmdS badvpn badvpn-udpgw --listen-addr 127.0.0.1:7300 --max-clients 500
+screen -AmdS badvpn badvpn-udpgw --listen-addr 127.0.0.1:7400 --max-clients 500
+screen -AmdS badvpn badvpn-udpgw --listen-addr 127.0.0.1:7500 --max-clients 500
+screen -AmdS badvpn badvpn-udpgw --listen-addr 127.0.0.1:7600 --max-clients 500
 clear
 echo "   '########:::'#######::'########::::'###::::'########::'#######::" | lolcat
 echo "    ##.... ##:'##.... ##:... ##..::::'## ##:::... ##..::'##.... ##:" | lolcat

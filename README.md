@@ -21,18 +21,18 @@ wget --no-check-certificate https://raw.githubusercontent.com/potatonc/ScriptAut
 ```
 **Install package potato**
 ```
-apt-get install potato -y
+reboot
 ```
 **Tunneling**
 ```
-potato install tunneling
+apt-get install potato -y
 ```
 **BOT**
 ```
-potato install bot
+potato install tunneling
 ```
 ```
-potato start bot
+reboot
 ```
 **TCP BBR by teddysun**
 ```

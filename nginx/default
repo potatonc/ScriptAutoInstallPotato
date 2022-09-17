@@ -20,7 +20,7 @@
 #
 server {
 	listen 81 default_server;
-	listen [::]:81 default_server;
+	#listen [::]:81 default_server;
 
 	# SSL configuration
 	#

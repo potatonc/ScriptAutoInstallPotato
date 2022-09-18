@@ -58,7 +58,9 @@ cd && wget https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/ma
 | VMESS | 443 | ✅ | ✅ | |
 | VLESS | 80 | | ✅ | ✅ |
 | VLESS | 443 | ✅ | ✅ | |
-| Trojan-go Maintenance |  |  | |
+| XRAY | 443 | ✅ | ✅ | |
+| XRAY | 443 | | ✅ | ✅ |
+| Trojan-go | 443 | ✅ | ✅ | |
 | Trojan-gfw | 4443 | ✅ | | |
 | Wireguard | 7085 | | | ✅ |
 | SSTP | 446 | | | ✅ |
@@ -78,6 +80,7 @@ cd && wget https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/ma
 * Check Memory RAM
 * User Limit SSH/Dropbear/OpenVPN
 * User Limit V2Ray
+* User Limit XRay
 * Speedtest
 * Cek User OpenVPN (User-friendly)
 * Live Bandwidth
@@ -96,33 +99,6 @@ cd && wget https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/ma
 * Change Time Zone
 * Block Torrent
 * DLL
-
-### Restore Configuration
-**Restore From Termux App**
-![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/1.jpg?raw=true "Restore From Termux App")
-![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/2.jpg?raw=true "Restore From Termux App")
-![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/3.jpg?raw=true "Restore From Termux App")
-![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/4.jpg?raw=true "Restore From Termux App")
-![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/5.jpg?raw=true "Restore From Termux App")
-![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/6.jpg?raw=true "Restore From Termux App")
-![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/7.jpg?raw=true "Restore From Termux App")
-
-**Restore From Direct Link**
-![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/a.jpg?raw=true "Restore From Termux App")
-![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/b.jpg?raw=true "Restore From Termux App")
-![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/c.jpg?raw=true "Restore From Termux App")
-![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/d.jpg?raw=true "Restore From Termux App")
-![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/e.jpg?raw=true "Restore From Termux App")
-![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/f.jpg?raw=true "Restore From Termux App")
-
-### Manages Domain Cloudflare
-![Alt text](https://github.com/potatonc/sudo/raw/master/1.jpg?raw=true "Manages Domain Cloudflare")
-![Alt text](https://github.com/potatonc/sudo/raw/master/2.jpg?raw=true "Manages Domain Cloudflare")
-![Alt text](https://github.com/potatonc/sudo/raw/master/3.jpg?raw=true "Manages Domain Cloudflare")
-![Alt text](https://github.com/potatonc/sudo/raw/master/4.jpg?raw=true "Manages Domain Cloudflare")
-![Alt text](https://github.com/potatonc/sudo/raw/master/5.jpg?raw=true "Manages Domain Cloudflare")
-![Alt text](https://github.com/potatonc/sudo/raw/master/6.jpg?raw=true "Manages Domain Cloudflare")
-![Alt text](https://github.com/potatonc/sudo/raw/master/7.jpg?raw=true "Manages Domain Cloudflare")
 
 **Get CHATID**
 ![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/chatid.jpg?raw=true "Restore From Termux App")

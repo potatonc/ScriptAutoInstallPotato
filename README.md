@@ -100,7 +100,10 @@ cd && wget https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/ma
 * Block Torrent
 * DLL
 
-**Get CHATID**
+### Backup & Restore
+![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/backup-restore1.gif?raw=true "Restore From Termux App")
+
+### Get CHATID
 ![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/chatid.jpg?raw=true "Restore From Termux App")
 
 ### Fix

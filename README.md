@@ -104,6 +104,7 @@ cd && wget https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/ma
 ![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/backup-restore1.gif?raw=true "Backup and Restore Web")
 
 ### Backup & Restore Termux
+* Cooming soon
 ![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/termux.gif?raw=true "Backup and Restore Termux")
 
 ### Get CHATID

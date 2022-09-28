@@ -101,10 +101,13 @@ cd && wget https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/ma
 * DLL
 
 ### Backup & Restore
-![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/backup-restore1.gif?raw=true "Restore From Termux App")
+![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/backup-restore1.gif?raw=true "Backup and Restore Web")
+
+### Backup & Restore Termux
+![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/termux.gif?raw=true "Backup and Restore Termux")
 
 ### Get CHATID
-![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/chatid.jpg?raw=true "Restore From Termux App")
+![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/chatid.jpg?raw=true "Get Chat ID Telegram")
 
 ### Fix
 * sent invalidate(passwd) request, exiting

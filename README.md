@@ -60,7 +60,7 @@ cd && wget https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/ma
 | VLESS | 443 | ✅ | ✅ | |
 | XRAY | 443 | ✅ | ✅ | |
 | XRAY | 80 | | ✅ | ✅ |
-| Trojan-go | 443 | ✅ | ✅ | |
+| Trojan-WS | 443 | ✅ | ✅ | |
 | Trojan-gfw | 4443 | ✅ | | |
 | Wireguard | 7085 | | | ✅ |
 | SSTP | 446 | | | ✅ |

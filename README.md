@@ -4,8 +4,8 @@ Channel Telegram : https://t.me/tunnelingpotato
 * if you are using a low-end vps, use the Mono theme.
 
 ## Contact Us
-* Telegram  : aldi_nc
-* Instagram : aldi_nc
+* Telegram   : @aldi_nc
+* Instagram : @aldi_nc
 * Whatsapp  : +6282111196213
 
 ## Description

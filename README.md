@@ -81,6 +81,7 @@ cd && wget https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/ma
 * User Limit SSH/Dropbear/OpenVPN
 * User Limit V2Ray
 * User Limit XRay
+* User Limit Trojan
 * Speedtest
 * Cek User OpenVPN (User-friendly)
 * Live Bandwidth

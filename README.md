@@ -102,6 +102,9 @@ cd && wget https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/ma
 * Block Torrent
 * DLL
 
+### V2RAY/XRAY/TROJAN
+![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/IMG_20221001_025333.jpg?raw=true "Users Limit")
+
 ### Backup & Restore
 ![Alt text](https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/backup-restore1.gif?raw=true "Backup and Restore Web")
 

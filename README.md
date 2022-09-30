@@ -71,6 +71,7 @@ cd && wget https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/ma
 ### What's features included
 * Webmin http(s)://[ip]:10000/
 * Nginx http(s)://[ip]:81/
+* Web Backup http(s)://[ip]:8555/
 * Timezone : Asia/Jakarta
 * Auto Reboot 00.00 WIB GMT +7
 * Auto Update Feature

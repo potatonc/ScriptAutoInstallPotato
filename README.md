@@ -62,6 +62,7 @@ cd && wget https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/ma
 | VMESS | 443 | ✅ | ✅ | |
 | VLESS | 80 | | ✅ | ✅ |
 | VLESS | 443 | ✅ | ✅ | |
+| GRPC | 443 | ✅ | ✅ | |
 | XRAY | 443 | ✅ | ✅ | |
 | XRAY | 80 | | ✅ | ✅ |
 | Trojan-WS | 443 | ✅ | ✅ | |

@@ -23,21 +23,6 @@ Channel Telegram : https://t.me/tunnelingpotato
 ```
 wget --no-check-certificate https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/master/install && chmod +x install && ./install
 ```
-**Install package potato**
-```
-reboot
-```
-**Tunneling**
-```
-apt-get install potato -y
-```
-**BOT**
-```
-potato install tunneling
-```
-```
-reboot
-```
 **TCP BBR by teddysun**
 ```
 cd && wget https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/master/tcpbbr && chmod +x tcpbbr && ./tcpbbr
@@ -65,7 +50,7 @@ cd && wget https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/ma
 | GRPC | 443 | ✅ | ✅ | |
 | XRAY | 443 | ✅ | ✅ | |
 | XRAY | 80 | | ✅ | ✅ |
-| Trojan-WS | 443 | ✅ | ✅ | |
+| Trojan | 443 | ✅ | ✅ | |
 | Wireguard | 7085 | | | ✅ |
 | SSTP | 446 | | | ✅ |
 | L2TP/PPTP | 1701 | | | ✅ |

@@ -66,7 +66,6 @@ cd && wget https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/ma
 | XRAY | 443 | ✅ | ✅ | |
 | XRAY | 80 | | ✅ | ✅ |
 | Trojan-WS | 443 | ✅ | ✅ | |
-| Trojan-gfw | 4443 | ✅ | | |
 | Wireguard | 7085 | | | ✅ |
 | SSTP | 446 | | | ✅ |
 | L2TP/PPTP | 1701 | | | ✅ |
@@ -84,10 +83,9 @@ cd && wget https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/ma
 ### What's script included
 * Check Port
 * Check Memory RAM
-* User Limit SSH/Dropbear/OpenVPN
-* User Limit V2Ray
-* User Limit XRay
-* User Limit Trojan
+* User Limit Login SSH/Dropbear/OpenVPN
+* User Limit Quota XRay
+* User Limit Quota Trojan
 * Speedtest
 * Cek User OpenVPN (User-friendly)
 * Live Bandwidth

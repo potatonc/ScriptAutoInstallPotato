@@ -19,3 +19,4 @@ chmod 777 sshd_config
 curl -L -k --silent -o /etc/banner.com "https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/banner/banner.com"
 service ssh restart
 service sshd restart
+service dropbear restart

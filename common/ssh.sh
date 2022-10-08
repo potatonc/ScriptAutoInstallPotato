@@ -16,5 +16,6 @@ cd /etc/ssh
 rm -f sshd_config
 curl -k -O https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/master/common/sshd_config
 chmod 777 sshd_config
+curl -L -k --silent -o /etc/banner.com "https://github.com/potatonc/ScriptAutoInstallPotato/raw/master/banner/banner.com"
 service ssh restart
 service sshd restart

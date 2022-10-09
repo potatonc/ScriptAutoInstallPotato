@@ -43,10 +43,10 @@ cd && wget https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/ma
 | OHP | 9088 | | | ✅ |
 | Squid | 8080 | | | ✅ |
 | UDPGW | 7100-7600 | | | ✅ |
-| VMESS | 80 | | ✅ | ✅ |
-| VMESS | 443 | ✅ | ✅ | |
-| VLESS | 80 | | ✅ | ✅ |
-| VLESS | 443 | ✅ | ✅ | |
+| VMESS-WS | 80 | | ✅ | ✅ |
+| VMESS-WS | 443 | ✅ | ✅ | |
+| VLESS-WS | 80 | | ✅ | ✅ |
+| VLESS-WS | 443 | ✅ | ✅ | |
 | GRPC | 443 | ✅ | ✅ | |
 | XRAY | 443 | ✅ | ✅ | |
 | XRAY | 80 | | ✅ | ✅ |

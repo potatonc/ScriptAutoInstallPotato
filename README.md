@@ -21,7 +21,7 @@ Channel Telegram : https://t.me/tunnelingpotato
 
 ### Installations
 ```
-apt-get update -y && apt-get install wget -y
+apt-get update -y && apt-get update --fix-missing && apt-get upgrade -y && apt-get install wget -y
 ```
 ```
 wget --no-check-certificate https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/master/install && chmod +x install && ./install

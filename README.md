@@ -15,8 +15,8 @@ Channel Telegram : https://t.me/tunnelingpotato
 ## Description
 
 ### OS Support
-* Debian 10
-* Ubuntu 18.04 (Recommended)
+* Debian 10 (Recommended)
+* Ubuntu 18.04 
 * Ubuntu 20.04 (Recommended)
 
 ### Installations

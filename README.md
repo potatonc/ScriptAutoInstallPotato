@@ -54,6 +54,7 @@ cd && wget https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/ma
 | XRAY | 443 | ✅ | ✅ | |
 | XRAY | 80 | | ✅ | ✅ |
 | Trojan | 443 | ✅ | ✅ | |
+| Trojan-GFW | 443 | ✅ | ✅ | |
 | Wireguard | 7085 | | | ✅ |
 | SSTP | 446 | | | ✅ |
 | L2TP/PPTP | 1701 | | | ✅ |

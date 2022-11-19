@@ -10,8 +10,8 @@ blue='\033[0;34m'
 ungu='\033[0;35m'
 Green="\033[32m"
 Red="\033[31m"
-WhiteB="\e[5;37m"
-BlueCyan="\e[5;36m"
+WhiteB="\e[0;37m"
+BlueCyan="\e[0;36m"
 Green_background="\033[42;37m"
 Red_background="\033[41;37m"
 Suffix="\033[0m"
@@ -92,14 +92,32 @@ function input_nameserver() {
   if [[ "${_Active}" == "inactive" ]]; then
     systemctl enable systemd-resolved
     systemctl start systemd-resolved
+    cf=$(cat /etc/resolv.conf | grep -w "nameserver 1.1.1.1")
+    gg=$(cat /etc/resolv.conf | grep -w "nameserver 8.8.8.8")
+    gg1=$(cat /etc/resolv.conf | grep -w "nameserver 8.8.4.4")
+    if [[ "${cf}" == "" ]]; then
     echo "nameserver 1.1.1.1" >> /etc/resolv.conf
-    echo "nameserver 8.8.4.4" >> /etc/resolv.conf
+    fi
+    if [[ "${gg}" == "" ]]; then
     echo "nameserver 8.8.8.8" >> /etc/resolv.conf
+    fi
+    if [[ "${gg1}" == "" ]]; then
+    echo "nameserver 8.8.4.4" >> /etc/resolv.conf
+    fi
     systemctl restart systemd-resolved
   else
+    cf=$(cat /etc/resolv.conf | grep -w "nameserver 1.1.1.1")
+    gg=$(cat /etc/resolv.conf | grep -w "nameserver 8.8.8.8")
+    gg1=$(cat /etc/resolv.conf | grep -w "nameserver 8.8.4.4")
+    if [[ "${cf}" == "" ]]; then
     echo "nameserver 1.1.1.1" >> /etc/resolv.conf
-    echo "nameserver 8.8.4.4" >> /etc/resolv.conf
+    fi
+    if [[ "${gg}" == "" ]]; then
     echo "nameserver 8.8.8.8" >> /etc/resolv.conf
+    fi
+    if [[ "${gg1}" == "" ]]; then
+    echo "nameserver 8.8.4.4" >> /etc/resolv.conf
+    fi
     systemctl restart systemd-resolved
   fi
 }

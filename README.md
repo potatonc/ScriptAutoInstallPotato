@@ -92,6 +92,8 @@ cd && wget https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/ma
 * List DNS Cloudflare
 * Change Time Zone
 * Block Torrent
+* Support Multi Path VMESS
+* AIO Port 443 80
 * DLL
 
 ### V2RAY/XRAY/TROJAN

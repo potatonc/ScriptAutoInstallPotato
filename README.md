@@ -26,10 +26,6 @@ apt-get update -y && apt-get update --fix-missing && apt-get install wget -y && 
 ```
 wget --no-check-certificate https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/master/common/install && chmod +x install && ./install
 ```
-**TCP BBR by teddysun**
-```
-cd && wget https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/master/tcpbbr && chmod +x tcpbbr && ./tcpbbr
-```
 
 ### What's server included
 |   NAME    |   PORT   | SSL | WS | no-SSL |

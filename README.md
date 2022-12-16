@@ -1,12 +1,6 @@
 # Script Auto Install
 Channel Telegram : https://t.me/tunnelingpotato
 
-* if you are using a low-end vps, use the Mono theme.
-
-## Selling Potato Tunneling
-* complete source script
-* dm for price
-
 ## Contact Us
 * Telegram   : @aldi_nc
 * Instagram : @aldi_nc
@@ -16,8 +10,7 @@ Channel Telegram : https://t.me/tunnelingpotato
 
 ### OS Support
 * Debian 10 (Recommended)
-* Ubuntu 18.04 
-* Ubuntu 20.04 (Recommended)
+* Ubuntu 20.04
 
 ### Installations
 ```
@@ -69,7 +62,7 @@ wget --no-check-certificate https://raw.githubusercontent.com/potatonc/ScriptAut
 * Check Port
 * Check Memory RAM
 * User Limit Login SSH/Dropbear/OpenVPN
-* User Limit Quota XRay
+* User Limit Quota XRay/V2Ray
 * User Limit Quota Trojan
 * Speedtest
 * Cek User OpenVPN (User-friendly)
@@ -114,4 +107,4 @@ apt-get remove --purge unscd
 
 
 
-Potato© 2019-2022
+Potato© 2018-2022

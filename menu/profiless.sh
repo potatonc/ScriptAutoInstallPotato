@@ -9,4 +9,3 @@ fi
 mesg n || true
 clear
 neofetch
-$POTATO_UPDATE

@@ -1,10 +1,6 @@
 ## Price For 1 Month
 * 1 IP Address
   + USD 3.5$
-* 5 IP Address
-  + USD 14$
-* 10 IP Address
-  + USD 24.5$
 
 # Lists Wallet
 ## BTC

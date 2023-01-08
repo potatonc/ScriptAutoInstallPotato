@@ -5,13 +5,6 @@
   + USD 14$
 * 10 IP Address
   + USD 24.5$
-## Price For Lifetime
-* 1 IP Address
-  + USD 7$
-* 5 IP Address
-  + USD 28$
-* 10 IP Address
-  + USD 49$
 
 # Lists Wallet
 ## BTC

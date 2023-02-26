@@ -12,14 +12,6 @@ Channel Telegram : https://t.me/tunnelingpotato
 * Debian 10 (Recommended)
 * Ubuntu 20.04
 
-### Installations
-```
-apt-get update -y && apt-get update --fix-missing && apt-get install wget -y && apt-get install curl -y
-```
-```
-wget --no-check-certificate https://raw.githubusercontent.com/potatonc/ScriptAutoInstallPotato/master/common/install && chmod +x install && ./install
-```
-
 ### What's server included
 |   NAME    |   PORT   | SSL | WS | no-SSL |
 | :--- | :--- | :---: | :---: | :---: |

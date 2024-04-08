@@ -4,7 +4,7 @@ Channel Telegram : https://t.me/tunnelingpotato
 ## Contact Us
 * Telegram   : @aldi_nc
 * Instagram : @aldi_nc
-* Whatsapp  : +6282111196213
+* Whatsapp  : +6281519397778
 
 ## Description
 
